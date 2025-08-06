@@ -308,11 +308,12 @@ ol {
   padding-bottom: 30px;
 }
 
+.content__video-card:hover {
+  text-decoration: underline;
+}
+
+
 .content__card-link:active,
 .content__card-link_current {
   background-color: #545050;
-}
-
-.content__video-card:hover {
-  text-decoration: underline;
 }
