@@ -156,6 +156,7 @@ ol {
   font-size: 75px;
   line-height: 0.94em;
   text-transform: uppercase;
+  margin-bottom: 20px;
 }
 
 .content__accent {
@@ -164,8 +165,7 @@ ol {
 
 .content__list {
   position: relative;
-  height: 300px;
-  margin-top: 20px;
+  height: 270px;
   overflow-x: hidden;
   overflow-y: auto;
 }
